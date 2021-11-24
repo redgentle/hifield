@@ -18,4 +18,4 @@ a:hover  {text-decoration:none; color:#F76A35;}
 a:active {text-decoration:none; color:#666;}
 
 .wrap{width:100%; position: relative; overflow: hidden;}
-.wrap .container{width:1920px;height:3500px; position:relative; top:0; left:50%; margin-left: -960px;background:url(../img/review.png);}
+.wrap .container{width:1920px;height:7600px; position:relative; top:0; left:50%; margin-left: -960px;background:url(../img/review.png);}
